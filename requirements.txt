@@ -1,0 +1,22 @@
+# Data Processing and Manipulation
+pandas
+numpy
+
+# Data Visualization
+matplotlib
+seaborn
+plotly
+
+# Statistical Analysis and Hypothesis
+scipy
+statsmodels
+
+# Modelling
+scikit-learn
+
+# Data Reading
+python-docx
+openpyxl
+
+# Jupyter Notebook Locale
+ipykernel
